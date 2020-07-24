@@ -1,0 +1,62 @@
+.Navbar{
+    background-color: #19A2FF;
+    font-family: "Work Sans";
+}
+.Link{
+    color:white;
+    text-decoration: none;
+    margin-right: 60px;
+}
+.Link:hover{
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-right: 60px;
+}
+.BrandText{
+    font-size: 1vw;
+}
+.User{
+    color: #B4B4BD;
+    text-decoration: none;
+    margin-right: 60px;
+    margin-top: 5px;
+}
+.User:hover{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+@media(max-width:1200px){
+    .Link{
+        margin-right: 40px;
+    }
+    .Link:hover{
+        margin-right: 40px;
+    }
+    .User{
+        margin-right: 40x;
+        margin-top: 5px;
+    }
+}
+@media(max-width:992px){
+    .Link{
+        margin-right: 20px;
+    }
+    .Link:hover{
+        margin-right: 20px;
+    }
+    .User{
+        margin-right: 20x;
+        margin-top: 5px;
+    }
+}
+@media(max-width:830px){
+    .BrandText{
+        display: none;
+    }
+}
+@media(max-width:574px){
+    .Links{
+        margin-top: 5px;
+    }
+}

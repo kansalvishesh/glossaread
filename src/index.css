@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.myTabs{
+  color:"#889094" !important;
+}
+.myTabs-active{
+  color: red;
+}
