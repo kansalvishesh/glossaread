@@ -1,0 +1,7 @@
+.course-view .MuiLinearProgress-colorPrimary {
+  background-color: white;
+}
+.course-view .MuiLinearProgress-barColorPrimary {
+  background-color: #6ACCF9;
+  border-radius: 20px;
+}

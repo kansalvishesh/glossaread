@@ -1,0 +1,58 @@
+a.menu-link {
+  text-decoration: none;
+  color: inherit;
+}
+.welcome-tab .MuiTab-root {
+  padding: 0px 0px;
+  overflow: hidden;
+  position: relative;
+  font-size: 0.875rem;
+  box-sizing: border-box;
+  text-align: center;
+  flex-shrink: 0;
+  color: #889094;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: 1.75;
+  white-space: normal;
+  letter-spacing: 0.02857em;
+  text-transform: uppercase;
+}
+.welcome-tab .Mui-selected {
+  background: #889094 0% 0% no-repeat padding-box;
+  /*border: 1px solid #FFFFFF;*/
+  color: #ffffff;
+  outline: none;
+}
+.welcome-tab .MuiTabs-indicator {
+  display: none;
+}
+.study-material-tab .MuiTabs-indicator{
+  background-color: #FFBC00;
+  width: 100%;
+}
+.study-material-tab p {
+  font-family: Raleway;
+  width: auto;
+}
+.study-material-tab .Mui-selected {
+  font-family: Raleway;
+  font-weight: 900;
+  outline: none;
+}
+.study-material-tab .MuiTab-root {
+  text-align: left;
+  font-family: Raleway;
+  font-size: 15px;
+  letter-spacing: 0px;
+  color: #1B1D1E;
+  text-transform: uppercase;
+  padding: 0px 0px;
+  overflow: hidden;
+  position: relative;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  line-height: 1.75;
+  white-space: normal;
+  min-width: 150px;
+}
